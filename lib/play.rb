@@ -39,7 +39,7 @@ end
 def play(board)
   move_counter = 0
   while move_counter < 10
-    
+    move_counter += 1
 end
   
   
